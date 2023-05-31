@@ -1,0 +1,4 @@
+/home/vbox/ASCII-GFX-1.2/CMakeFiles/rebuild_cache.dir
+/home/vbox/ASCII-GFX-1.2/CMakeFiles/edit_cache.dir
+/home/vbox/ASCII-GFX-1.2/CMakeFiles/main.dir
+/home/vbox/ASCII-GFX-1.2/CMakeFiles/asciigfx.dir

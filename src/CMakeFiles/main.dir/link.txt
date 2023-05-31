@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++98 -Wall -Werror -Wvla -g -O   CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/intro.cpp.o  -o main -rdynamic libasciigfx.a -lcurses -lform -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread -lSDL_mixer 
