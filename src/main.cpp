@@ -6,15 +6,15 @@
 #include "sound.h"
 #include <curses.h>
 #include "intro.h"
+#include "game.h"
 
 
 int main()
 {
     init_gfx();
     clear();
-    intro();
-    //game_loop();
-    refresh();
+    //intro();
+    game_loop();
     exit_gfx();
     return(0);
 }
